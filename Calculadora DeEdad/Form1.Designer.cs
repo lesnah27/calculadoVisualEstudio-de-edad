@@ -213,9 +213,9 @@
             this.label11.AutoSize = true;
             this.label11.Location = new System.Drawing.Point(43, 407);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(122, 13);
+            this.label11.Size = new System.Drawing.Size(125, 13);
             this.label11.TabIndex = 26;
-            this.label11.Text = "ING.HANSEL DE LEON";
+            this.label11.Text = "ING.HANSEL  DE LEON";
             // 
             // Form1
             // 
