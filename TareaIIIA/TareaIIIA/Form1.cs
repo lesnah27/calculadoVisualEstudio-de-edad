@@ -41,7 +41,7 @@ namespace TareaIIIA
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            Buscar pBuscar = new Buscar();
+            Form2 pBuscar = new Form2();
             pBuscar.ShowDialog();
         }
     }
